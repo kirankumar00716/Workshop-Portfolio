@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "OmniFood",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A food delivery service website. This project was created as part of a Udemy course on HTML and CSS.",
+    url: "https://kirankumar00716.github.io/Omni-Food/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Visualization-Dashboard",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a visualization dashboard created using ReactJS, JavaScript, TailwindCSS, and ChartJS. The dashboard displays COVID-19 data for different countries.",
+    url: "https://github.com/kirankumar00716/Visualization-Dashboard",
   },
   {
-    title: "My Resume Site",
+    title: "Contact Management App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. The app includes a dashboard with charts and maps that display COVID-19 data for different countries.",
+    url: "https://contact-management-app-lyart-five.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "COM_graphic_card_store",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This web application was developed using HTML, CSS, JavaScript, and Bootstrap. Here you can browse graphic cards from the store. We used the Bootstrap library in this application to enhance the user interface . ",
+    url: "https://kirankumar00716.github.io/COM_graphic_card_store/",
   },
 ];
 
